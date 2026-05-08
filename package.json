@@ -1,0 +1,12 @@
+{
+  "name": "kubernetes-project",
+  "version": "1.0.0",
+  "description": "CI/CD Kubernetes Project",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
