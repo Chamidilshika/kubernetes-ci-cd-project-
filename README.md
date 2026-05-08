@@ -6,7 +6,7 @@ This project demonstrates a complete CI/CD pipeline implementation using Docker,
 
 The application is containerized using Docker and deployed into a Kubernetes cluster running on Minikube. Jenkins is integrated to automate the CI/CD workflow.
 
-# 🛠 Technologies Used
+## 🛠 Technologies Used
 
 * Docker
   
@@ -25,7 +25,7 @@ The application is containerized using Docker and deployed into a Kubernetes clu
 
 
 
-# ⚙️ Prerequisites
+## ⚙️ Prerequisites
 
 Before running this project, install the following:
 
@@ -41,16 +41,16 @@ Before running this project, install the following:
   
 * VS Code
 
-# 📸 Project Outputs
+## 📸 Project Outputs
 
-## Successful Outputs
+### Successful Outputs
 
 * Running Kubernetes Pods
 * Jenkins Pipeline Success
 * Running Application in Browser
 * Docker Image Build Success
 
-# 🎯 Learning Outcomes
+## 🎯 Learning Outcomes
 
 Through this project, I learned:
 
@@ -62,7 +62,7 @@ Through this project, I learned:
 * GitHub integration with Jenkins
 * DevOps workflow implementation
 
-# 🔮 Future Improvements
+## 🔮 Future Improvements
 
 * Push Docker images to Docker Hub
 * Add GitHub webhooks
